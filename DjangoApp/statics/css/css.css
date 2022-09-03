@@ -1,0 +1,51 @@
+@charset "utf-8";
+body{
+      background-color:#b0c4d2;
+}
+#main{
+      margin:0 auto;
+      background-color:#b0c4de;
+      position:relative;
+      width:1440px;
+      height:600px;
+}
+.h2{
+    height:20px;
+}
+#dragbox{
+        float:left;
+        width: 700px;
+        height:600px;
+}
+#textobox{
+       float:left;
+       margin-left:40px;
+       width: 700px;
+       height:600px;
+}
+#drag{
+        top:50px;
+        left:0px;
+        border: 2px solid #aaa;
+        padding: 10px;
+        margin: 10px;
+        width: 660px;
+        height: 500px;
+}
+#cambia{
+        top:20px;
+        right:20px;
+        background-color:#abbaab;
+        position:absolute;
+        width:100px;
+        height:20px;
+}
+#texto{
+        top:50px;
+        left:0px;
+        border: 2px solid #aaa;
+        padding: 10px;
+        margin: 10px;
+        width: 660px;
+        height: 500px;
+}
